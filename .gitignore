@@ -3,3 +3,9 @@
 /back-end/ProyectoFinal/.vs
 /back-end/ProyectoFinal/resto_App_AL_WebApi/bin
 /back-end/ProyectoFinal/resto_App_AL_WebApi/obj
+
+/back-end/ProyectoFinal/resto_App_BL/obj
+/back-end/ProyectoFinal/resto_App_BL/bin
+
+/back-end/ProyectoFinal/resto_App_DAL_DBContext/bin
+/back-end/ProyectoFinal/resto_App_DAL_DBContext/obj
