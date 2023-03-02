@@ -5,11 +5,17 @@ VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "resto_App_AL_WebApi", "resto_App_AL_WebApi", "{742F005D-8B5A-494A-8FF6-7A80860FEE12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "resto_App_AL_WebApi", "resto_App_AL_WebApi\resto_App_AL_WebApi.csproj", "{A8632658-4AF3-484B-A0A2-F36A6688AD50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "resto_App_AL_WebApi", "resto_App_AL_WebApi\resto_App_AL_WebApi.csproj", "{A8632658-4AF3-484B-A0A2-F36A6688AD50}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "resto_App_BL", "resto_App_BL", "{8B8AC651-ABCA-4E4C-B443-92B86B92E2EE}"
+	ProjectSection(SolutionItems) = preProject
+		Vacio.cs = Vacio.cs
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "resto_App_DAL", "resto_App_DAL", "{93DCE92F-7AD4-4199-AB52-72FD0582AF15}"
+	ProjectSection(SolutionItems) = preProject
+		Diagrama.cs = Diagrama.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
