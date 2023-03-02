@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ce9kyfpwLfQaT7Hn5mYq4BwcvzqCwxM4A+PvoJNX1AwtcPlFSqugxK/Pvoe2uGDpjCq1HVufDNfD3FP5PhyWpw==",
+  "success": true,
+  "projectFilePath": "D:\\2023\\Programacion\\.net c#\\ProyectoFinal\\restoDevlights.github.io\\back-end\\ProyectoFinal\\resto_App_AL_WebApi\\resto_App_AL_WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Omar\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Omar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Omar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Omar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
