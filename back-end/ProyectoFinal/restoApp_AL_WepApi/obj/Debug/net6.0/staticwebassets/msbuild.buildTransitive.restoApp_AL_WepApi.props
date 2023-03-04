@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\restoApp_AL_WepApi.props" />
+</Project>
